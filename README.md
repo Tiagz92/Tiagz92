@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago Gonçalves De Almeida</h1>
 <h3 align="center">i'm a passionate web dev from france</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagz92" alt="tiagz92" /></a> </p>
-
 - 🔭 I’m currently working on [JS-Paris-P3-goat](https://github.com/WildCodeSchool-2024-09/JS-Paris-P3-goat.git)
 
 - 📫 How to reach me **tdealmeida85@gmail.com**

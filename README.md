@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tdealmeida85@gmail.com**
 
-- ⚡ Fun fact **I am a social coordinator going through a career transition.**
+- ⚡ Fun fact **My first PC was a Pentium 133GHZ.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
